@@ -1,0 +1,9 @@
+{
+  "name": "Hagia Cleaners PRO",
+  "description": "Enterprise Resource Planning and Dashboard for Hagia Group",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
